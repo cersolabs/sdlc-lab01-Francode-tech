@@ -16,7 +16,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R: Esto se dene a que, sin una planificacion de lo que tenes que hacer, va a ser mucho mas desorganizado, y se pueden llegar a cometer mas errores o pasar por alto mas cosas.
+   R: Esto se debe a que, sin una planificacion de lo que tenes que hacer, va a ser mucho mas desorganizado, y se pueden llegar a cometer mas errores o pasar por alto mas cosas.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
