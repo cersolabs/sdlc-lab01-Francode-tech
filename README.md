@@ -32,45 +32,47 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R:  Esto se debe a que aunque con las metodologias agiles se acelera la etapa de codificacion, se necesita planificar cuando y como aplicar esas metodologias agiles.
 
 
 ### Actividad 2
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      | Entrevista al cliente, requerimientos del cliente, elementos a necesitar para llevar a cabo el proyecto.|
+| Diseño                        | Modelado con UML, diagramas de modelado, interaccion del cliente con app(previsualizacion).|
+| Codificación                  | Programar, segun el lenguaje elegido por el equipo de desarrollo|
+| Prueba                        | Ambiente que simula para poder probar la app, y no ver los errores cuadno se muestra al cliente. |
+| Puesta en marcha / Despliegue | Publicacion del software, y mantenimento del mismo. |
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: En la etapa de analisis.
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: Etapa de Codificacion.
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: Poder ver los errores que se pueden haber cometido, y que el cliente revise lo que entendimos que el pidio.
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
+- Ingeniería de requerimientos
+- Diseño
 - Codificación
 - Prueba
-- Diseño
 - Despliegue
-- Ingeniería de requerimientos
+
 ---
 R:
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: 
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
     R:
