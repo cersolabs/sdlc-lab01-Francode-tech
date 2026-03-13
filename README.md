@@ -28,7 +28,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R: 
+   R: Esto se debe a que en algunos casos, como en el de sistemas mas grandes, puede llegar a tardar mas, o ser menos eficiente.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
@@ -72,23 +72,25 @@ R:
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R: 
+    R: Puede ocurrir que 
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Debido a que 
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Cascada     |Entrevista y devolucion rapida |  Sistemas pequeños     |
+| Incremental |Version experimental antes de entregar el final | Sistemas que requieran mucho detalle en back-end|
+| Prototipos  |Buena captura de requisitos por propotipos | Sistemas con requerimientos importantes en front-end|
+| Espiral     |Seguridad de software|Sistemas que necesitan mucha segurida como bancos|
+| RAD         |Prearmados agiles |Sistemas que necesitan cosas "comunes" en otros sistemas|
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    El sistema de espiral es el mas conveniente.
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    El sistema de prototipos es el mejor para la captura de requerimientos.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
@@ -103,13 +105,17 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Recomiendo un sistema Lineal, ya que va a ser rapido debido al tiempo limitado, y es un sistema pequeño.
 - Justifique su respuesta.
 
   R:
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R: - Captura de requisitos en entrevista con cliente.
+     - Modelado del sistema.
+     - Trasladar el modelo a desarrolladores, para que empiecen la etapa de codificacion.
+     - Testeo de la app.
+     - 
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
