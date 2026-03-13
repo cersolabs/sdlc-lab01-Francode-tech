@@ -60,22 +60,27 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
+- Diseño 
+- Codificación
+- Despliegue 
+- Ingeniería de requerimientos
+- Prueba 
+
+---
+R:
 - Ingeniería de requerimientos
 - Diseño
 - Codificación
 - Prueba
 - Despliegue
 
----
-R:
-
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R: Puede ocurrir que 
+    R: Puede ocurrir que se tenga que reiniciar el proceso desde 0.
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R: Debido a que 
+    R: Debido a que se va a tener que hacer todo el SDCL nuevamente.
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
